@@ -1,2 +1,2 @@
 # clustering_machine_learning
-This repo provide information about spectral clustering, Dbscan, K-means and K-medoids
+This repo provide information about spectral clustering, Dbscan, Elbow Metjod, K-means and K-medoids
