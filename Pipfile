@@ -5,8 +5,12 @@ name = "pypi"
 
 [packages]
 matplotlib = "*"
+seaborn = "*"
+scikit-learn = "*"
+scikit-learn-extra = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.9"
